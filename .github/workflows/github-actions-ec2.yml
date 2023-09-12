@@ -1,5 +1,5 @@
 name: Push-to-EC2
-'on':
+on:
   push:
     branches:
       - main
@@ -28,5 +28,5 @@ jobs:
             sudo apt-get install -y apache2
             sudo systemctl start apache2
             sudo systemctl enable apache2
-            cd /home  # Fix the path here
+            cd /home
             sudo mv * /var/www/html
