@@ -5,3 +5,4 @@
 ![5](https://github.com/sufihub/Host-Resume-on-EC2/assets/124899223/f4c665e7-fea4-4e7c-969e-0c4ad7f3f6bc)
 ![6](https://github.com/sufihub/Host-Resume-on-EC2/assets/124899223/4e2d1b9f-c3a8-4f80-8d4b-93af47f9dba4)
 ![7](https://github.com/sufihub/Host-Resume-on-EC2/assets/124899223/e07fa376-89ab-4a21-9c4a-696359e704d9)
+![8](https://github.com/sufihub/Host-Resume-on-EC2/assets/124899223/21278a2e-6aaa-4e5d-9f29-943c7e5393e8)
