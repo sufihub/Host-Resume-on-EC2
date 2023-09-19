@@ -3,4 +3,4 @@
 ![3](https://github.com/sufihub/Host-Resume-on-EC2/assets/124899223/9b786f0e-dfa3-4fa2-a8fa-c7af0956f984)
 ![4](https://github.com/sufihub/Host-Resume-on-EC2/assets/124899223/c1c664a0-2809-4754-9229-3d2e25b8ee4a)
 ![5](https://github.com/sufihub/Host-Resume-on-EC2/assets/124899223/f4c665e7-fea4-4e7c-969e-0c4ad7f3f6bc)
-# got error in .yml file
+![6](https://github.com/sufihub/Host-Resume-on-EC2/assets/124899223/4e2d1b9f-c3a8-4f80-8d4b-93af47f9dba4)
